@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "PC gamer",
+    "description": "La mejor del mercado",
+    "price": 2000,
+    "thumbnail": "enlace",
+    "code": "3231a",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "title": "RTX 4060",
+    "description": "La mejor del mercado",
+    "price": 3000,
+    "thumbnail": "enlace",
+    "code": "3232a",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "RTa 4060",
+    "description": "La mejor del mercado",
+    "price": 3000,
+    "thumbnail": "enlace",
+    "code": "32323a",
+    "stock": 15
+  }
+]
