@@ -18,3 +18,12 @@
     "stock": 3
   }
 ]
+    "id": 3,
+    "title": "RTX 2060",
+    "description": "Barata",
+    "price": 1000,
+    "img": "sin imagen",
+    "code": "abc125",
+    "stock": 3
+  }
+]
